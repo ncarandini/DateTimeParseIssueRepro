@@ -1,7 +1,7 @@
 # DateTimeParseIssueRepro
 Date.Time parse issue (year 1948) [#16742](https://github.com/mono/mono/issues/16742) in mono/mono repository
 
-The issue is closed and the solving PR accepted and merged, but the issue is still present on Xamarin 16.4.000.311.
+The issue is closed and the solving PR has been approved and merged, but the issue is still present on Xamarin 16.4.000.311.
 
 ## Here are the VS info:
 
